@@ -394,7 +394,7 @@ Tell me when Phase 0 is complete and I'll confirm before we move to Phase 1.
 
 ## REFERENCE REPOSITORY
 
-The original codebase is at `spairkie/spiritual-seasons-pwa`. Read it freely for:
+The original codebase is at `builtbysai/spiritual-seasons-pwa`. Read it freely for:
 - Exact feature behavior
 - Specific UI strings and labels (do not change Dr. Ghee's content)
 - CSS component styles to port
