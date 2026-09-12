@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Spiritual Seasons — 120-day devotional journey" width="800" />
 
-<img src="assets/app-preview.png" alt="Spiritual Seasons app — real home screen" width="800" />
+<img src="assets/app-preview.png" alt="Spiritual Seasons app — real home screen" width="420" />
 
 A 120-day devotional journey through Winter, Spring, Summer, and Autumn, presented as an offline-first progressive web app.
 
